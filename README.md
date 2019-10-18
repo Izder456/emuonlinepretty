@@ -1,5 +1,5 @@
 # emuonlinepretty
-a quick and dirty template for making emulation sites with heroku
+a quick and dirty template for making emulation sites with ~~heroku~~ netlify
 
 ## HOW?
 * in each folder and file there are instructions
